@@ -1,6 +1,6 @@
 # Cyber Security Resources
 
-The Following are the resources which i use and like the most.
+The following are the resources which i use and like the most.
 
 ### This will be regularly updated.
 
