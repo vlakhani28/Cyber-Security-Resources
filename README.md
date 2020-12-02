@@ -41,3 +41,8 @@ The following are the resources which i use and like the most.
 
 ### Youtuber's to follow
 1. Ippsec: https://www.youtube.com/c/ippsec/videos
+
+## OSINT Resources
+### Online Resources
+1. https://www.osintdojo.com/resources/
+2. https://gowsundar.gitbook.io/book-of-bugbounty-tips/elastic-search
