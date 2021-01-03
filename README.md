@@ -22,6 +22,7 @@ The following are the resources which i use and like the most.
 1. Nahamsec : https://www.youtube.com/c/Nahamsec
 2. STOK: https://www.youtube.com/c/STOKfredrik/videos
 3. Hacktify: https://www.youtube.com/channel/UCS82DNnKOhXHcGKxGzQvNSQ
+4. HackerSploit: https://youtube.com/c/HackerSploit
 
 ### Books to be read
 
@@ -29,6 +30,7 @@ The following are the resources which i use and like the most.
 2. The Web Applications Hackers Handbook 2nd edition
 3. Web Hacking 101
 4. Bug Bounty Playbook
+5. Zseano's Methodology
 
 ### Some Courses: 
 1. Hacktify: https://learn.hacktify.in
