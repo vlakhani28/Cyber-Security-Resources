@@ -56,6 +56,9 @@ The following are the resources which i use and like the most.
 ### Youtuber's to follow
 1. Ippsec: https://www.youtube.com/c/ippsec/videos
 
+## Learn Linux 
+1. https://linuxjourney.com
+
 ## OSINT Resources
 ### Online Resources
 1. https://www.osintdojo.com/resources/
