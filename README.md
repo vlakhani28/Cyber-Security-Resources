@@ -29,8 +29,8 @@ The following are the resources which i use and like the most.
 3. Web Hacking 101
 4. Bug Bounty Playbook
 
-### Some Courses (mostly paid)
-1. Hacktify: learn.hacktify.in
+### Some Courses: 
+1. Hacktify: https://learn.hacktify.in
 2. Ethical Hacking by Joseph Delgadillo : https://www.udemy.com/share/101qF6BEQdeFpQQHQ=/
 
 ### Practice Web Penetration Testing
