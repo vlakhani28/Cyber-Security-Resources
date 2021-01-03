@@ -63,6 +63,6 @@ The following are the resources which i use and like the most.
 ### Online Resources
 1. OSCP Repo: https://github.com/rewardone/OSCPRepo
 
-Contributors
-Vaibhav Lakhani: https://github.com/vlakhani28/
-Denish Vaghasia : https://github.com/D-e-n-i-s-h
+## Contributors
+1. Vaibhav Lakhani: https://github.com/vlakhani28/
+2. Denish Vaghasia : https://github.com/D-e-n-i-s-h
