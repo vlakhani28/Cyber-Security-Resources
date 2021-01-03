@@ -15,6 +15,7 @@ The following are the resources which i use and like the most.
 6. Nahamsec's resources: https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
 7. Its Little Things by Nahamsec: https://docs.google.com/presentation/d/1xgvEScGZ_ukNY0rmfKz1JN0sn-CgZY_rTp2B_SZvijk/edit#slide=id.g4052c4692d_0_0
 8. ZSeano's Barker : https://bugbountyhunter.com
+9. The Cyber Mentor: https://www.youtube.com/c/TheCyberMentor/videos
 
 ### Youtuber's to follow
 
@@ -32,6 +33,7 @@ The following are the resources which i use and like the most.
 ### Some Courses: 
 1. Hacktify: https://learn.hacktify.in
 2. Ethical Hacking by Joseph Delgadillo : https://www.udemy.com/share/101qF6BEQdeFpQQHQ=/
+3. The Cyber Mentor's Course: https://www.udemy.com/course/practical-ethical-hacking/
 
 ### Practice Web Penetration Testing
 
@@ -60,3 +62,7 @@ The following are the resources which i use and like the most.
 ## OSCP Resource
 ### Online Resources
 1. OSCP Repo: https://github.com/rewardone/OSCPRepo
+
+Contributors
+Vaibhav Lakhani: https://github.com/vlakhani28/
+Denish Vaghasia : https://github.com/D-e-n-i-s-h
