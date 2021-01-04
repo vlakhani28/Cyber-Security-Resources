@@ -7,15 +7,16 @@ The following are the resources which i use and like the most.
 ## Web Penetration Testing : 
 ### Online Resources
 
-1. Hacker101: https://www.hacker101.com
-2. Bugcrowd University: https://www.bugcrowd.com/hackers/bugcrowd-university/
-3. Hacking Articles: https://www.hackingarticles.in
-4. Portswingers Research Academy: https://portswigger.net/web-security
-5. Bugcrowd's Github: https://github.com/bugcrowd/bugcrowd_university
-6. Nahamsec's resources: https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
-7. Its Little Things by Nahamsec: https://docs.google.com/presentation/d/1xgvEScGZ_ukNY0rmfKz1JN0sn-CgZY_rTp2B_SZvijk/edit#slide=id.g4052c4692d_0_0
-8. ZSeano's Barker : https://bugbountyhunter.com
-9. The Cyber Mentor: https://www.youtube.com/c/TheCyberMentor/videos
+1.  Hacker101: https://www.hacker101.com
+2.  Bugcrowd University: https://www.bugcrowd.com/hackers/bugcrowd-university/
+3.  Hacking Articles: https://www.hackingarticles.in
+4.  Portswingers Research Academy: https://portswigger.net/web-security
+5.  Bugcrowd's Github: https://github.com/bugcrowd/bugcrowd_university
+6.  Nahamsec's resources: https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
+7.  Its Little Things by Nahamsec: https://docs.google.com/presentation/d/1xgvEScGZ_ukNY0rmfKz1JN0sn-CgZY_rTp2B_SZvijk/edit#slide=id.g4052c4692d_0_0
+8.  ZSeano's Barker : https://bugbountyhunter.com
+9.  The Cyber Mentor: https://www.youtube.com/c/TheCyberMentor/videos
+10. Offensive Security Labs: https://portal.offensive-security.com/sign-in
 
 ### Youtuber's to follow
 
@@ -70,4 +71,5 @@ The following are the resources which i use and like the most.
 
 ## Contributors
 1. Vaibhav Lakhani: https://github.com/vlakhani28/
-2. Denish Vaghasia : https://github.com/D-e-n-i-s-h
+2. Denish Vaghasia: https://github.com/D-e-n-i-s-h
+3. Akshay Kerkar: https://github.com/Akshaykerkar
