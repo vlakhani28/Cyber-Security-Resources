@@ -20,6 +20,7 @@ The following are the resources which i use and like the most.
 11. INE Pentesting Prerequisites https://my.ine.com/CyberSecurity/courses/309de2a5/penetration-testing-prerequisites
 12. INE Pentesting Basics https://my.ine.com/CyberSecurity/courses/6f986ca5/penetration-testing-basics
 13. https://gowthams.gitbook.io/bughunter-handbook/
+14. The Bug Hunter's Methodology by Jhaddix: https://github.com/jhaddix/tbhm
 
 ### Youtuber's to follow
 
