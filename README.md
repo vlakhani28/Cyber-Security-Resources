@@ -19,6 +19,7 @@ The following are the resources which i use and like the most.
 10. Offensive Security Labs: https://portal.offensive-security.com/sign-in
 11. INE Pentesting Prerequisites https://my.ine.com/CyberSecurity/courses/309de2a5/penetration-testing-prerequisites
 12. INE Pentesting Basics https://my.ine.com/CyberSecurity/courses/6f986ca5/penetration-testing-basics
+13. https://gowthams.gitbook.io/bughunter-handbook/
 
 ### Youtuber's to follow
 
@@ -47,6 +48,24 @@ The following are the resources which i use and like the most.
 1. OWASP BWA: https://owasp.org/www-project-broken-web-applications/
 2. Portswinger's Labs: https://portswigger.net/web-security
 3. Metasploitable: https://information.rapid7.com/download-metasploitable-2017.html
+
+### Tools to start your bug hunting with
+
+1. Nahamsec's Script: https://github.com/nahamsec/bbht.git
+2. Awesome BBHT: https://github.com/0xApt/awesome-bbht
+3. Portswinger's Burpsuite: https://portswigger.net/burp
+4. OWASP Zap: https://owasp.org/www-project-zap/
+
+### Mind Maps
+1. https://github.com/imran-parray/Mind-Maps
+2. https://pentester.land/cheatsheets/2019/03/25/compilation-of-recon-workflows.html
+3. https://hacktify.in/mindmap.png
+4. https://twitter.com/ITSecurityguard/status/1306278129531486208/photo/1
+5. https://twitter.com/Musab1995/status/1317071523946127361
+
+### One Liner Collections
+1. https://github.com/dwisiswant0/awesome-oneliner-bugbounty
+2. https://github.com/OfJAAH/KingOfBugBountyTips
 
 ## Machine Solving
 ### Online Resources
