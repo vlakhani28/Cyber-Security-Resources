@@ -76,8 +76,8 @@ The following are the resources which i use and like the most.
 5. Windows/Linux Privilege Escaltion : https://github.com/sagishahar/lpeworkshop
 
 ## CTF's
-1. CTFLearn : ctflearn.com
-2. CTFTime : ctftime.org (All About CTF's)
+1. CTFLearn : https://ctflearn.com
+2. CTFTime : https://ctftime.org (All About CTF's)
 
 ## Machine Solving
 ### Online Resources
