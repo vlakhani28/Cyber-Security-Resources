@@ -68,6 +68,17 @@ The following are the resources which i use and like the most.
 1. https://github.com/dwisiswant0/awesome-oneliner-bugbounty
 2. https://github.com/OfJAAH/KingOfBugBountyTips
 
+### Awesome Bug Bounty Writeups
+1. Business Logic Vulns : https://medium.com/bugbountywriteup/all-about-business-logic-flaws-in-web-applications-577d9d80bc33
+2. SSRF Automation : https://notifybugme.medium.com/finding-ssrf-by-full-automation-7d2680091d68
+3. JavaScript Recon : https://gist.github.com/m4ll0k/31ce0505270e0a022410a50c8b6311ff
+4. Github For Bug Bounty Hunters : https://gist.github.com/EdOverflow/922549f610b258f459b219a32f92d10b
+5. Windows/Linux Privilege Escaltion : https://github.com/sagishahar/lpeworkshop
+
+## CTF's
+1. CTFLearn : ctflearn.com
+2. CTFTime : ctftime.org (All About CTF's)
+
 ## Machine Solving
 ### Online Resources
 1. Hack The Box: https://www.hackthebox.eu/
